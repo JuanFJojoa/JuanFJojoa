@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Juan F./h1>
-<p> 
-I am a mechatronic engineer who is dedicated to cybersecurity and IoT. My area of expertise is information security, and I enjoy finding solutions that can benefit both organizations and individuals. I am always looking to improve my skills and knowledge in order to keep up with the ever-changing challenges in this field. <p>
+
+
 <p align="left">
+               I am a mechatronic engineer who is dedicated to cybersecurity and IoT. My area of expertise is information security, and I enjoy finding solutions that can benefit both organizations and individuals. I am always looking to improve my skills and knowledge in order to keep up with the ever-changing challenges in this field. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
