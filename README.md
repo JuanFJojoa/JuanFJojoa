@@ -16,4 +16,22 @@
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/kalilinux-557C94?logo=kalilinux&logoColor=white" />
  </p>
 
+<h2> DevFolio </h2>
+
+<p>
+<a href="https://github.com/JuanFJojoa/DevFolio/tree/main/Cybersecurity"> <img alt="GitHub repo file count (file type)" src="https://img.shields.io/github/directory-file-count/JuanFJojoa/DevFolio/Cybersecurity?type=dir&style=for-the-badge&logo=files&label=Cybersecurity&labelColor=%23333333&color=%23BA0C2F">
+<a href="https://github.com/JuanFJojoa/DevFolio/tree/main/Engineering"> <img alt="GitHub repo file count (file type)" src="https://img.shields.io/github/directory-file-count/JuanFJojoa/DevFolio/Engineering?type=dir&style=for-the-badge&logo=files&label=Engineering&labelColor=%23333333&color=%23BA0C2F">
+<a href="https://github.com/JuanFJojoa/DevFolio/tree/main/Cloud-computing"> <img alt="GitHub repo file count (file type)" src="https://img.shields.io/github/directory-file-count/JuanFJojoa/DevFolio/Cloud-computing?type=dir&style=for-the-badge&logo=files&label=Cloud-Computing&labelColor=%23333333&color=%23BA0C2F">
+
+
+</p>
+
+
+
+
+
+
+
+
+
 
